@@ -7,8 +7,8 @@
 
 ### 🧠 whoami  
 👤 Avery Hughes  
-🎓 Cybersecurity Student @ Indiana Tech  
-<img src="https://raw.githubusercontent.com/avocado-avery/avocado-avery/main/TCW_logo.png" alt="Cyber Warriors" width="25px" /> Tech Cyber Warrior — Linux & Offensive Security Specialist  
+<img src="https://raw.githubusercontent.com/avocado-avery/avocado-avery/main/IT.webp" alt="Cyber Warriors" width="20px" /> Cybersecurity Student @ Indiana Tech  
+<img src="https://raw.githubusercontent.com/avocado-avery/avocado-avery/main/TCW_logo.png" alt="Cyber Warriors" width="20px" /> Tech Cyber Warrior — Linux & Offensive Security Specialist  
 
 ---
 
@@ -24,9 +24,10 @@
 ---
 
 ### 📡 socials --find  
-🔗 [LinkedIn](https://www.linkedin.com/in/avery-hughes06/)  
-💬 Discord: `itzshadybaby`  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/avery-hughes06/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="20px" alt="Discord Logo" /> Discord: `itzshadybaby`
 
+ 
 ---
 
 ✅ `echo "Terminal profile loaded. Thanks for stopping by 👋"`  
