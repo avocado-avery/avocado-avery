@@ -25,6 +25,7 @@
 
 ### 📡 socials --find  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/avery-hughes06/)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="20px" alt="Discord Logo" /> Discord: `itzshadybaby`
 
  
