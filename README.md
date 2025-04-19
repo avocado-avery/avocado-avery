@@ -8,7 +8,7 @@
 ### 🧠 whoami  
 👤 Avery Hughes  
 🎓 Cybersecurity Student @ Indiana Tech  
-<img src="https://raw.githubusercontent.com/avocado-avery/avocado-avery/main/TCW_logo.png" alt="Cyber Warriors" width="20px" /> Tech Cyber Warrior — Linux & Offensive Security Specialist  
+<img src="https://raw.githubusercontent.com/avocado-avery/avocado-avery/main/TCW_logo.png" alt="Cyber Warriors" width="30px" /> Tech Cyber Warrior — Linux & Offensive Security Specialist  
 
 ---
 
