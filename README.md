@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avocado-avery/avocado-avery/main/cofee_no_background.png" width="200px" alt="coffee-cup" />
+  <img src="https://raw.githubusercontent.com/avocado-avery/avocado-avery/main/cofee_no_background.png" width="250px" alt="coffee-cup" />
 </p>
 
 💻 Booting into `~/profile/avocado-avery.md`...  
@@ -8,7 +8,7 @@
 ### 🧠 whoami  
 👤 Avery Hughes  
 🎓 Cybersecurity Student @ Indiana Tech  
-<img src="https://raw.githubusercontent.com/avocado-avery/avocado-avery/main/TCW_logo.png" alt="Cyber Warriors" width="30px" /> Tech Cyber Warrior — Linux & Offensive Security Specialist  
+<img src="https://raw.githubusercontent.com/avocado-avery/avocado-avery/main/TCW_logo.png" alt="Cyber Warriors" width="25px" /> Tech Cyber Warrior — Linux & Offensive Security Specialist  
 
 ---
 
